@@ -1,0 +1,3 @@
+cdn.datatables.net$domain=reneweconomy.com.au
+googletagmanager.com$domain=reneweconomy.com.au
+googlesyndication.com$domain=reneweconomy.com.au
