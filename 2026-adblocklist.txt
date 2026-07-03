@@ -1,3 +1,21 @@
+<details><summary>Thinking</summary>
+
+The user wants me to format a complete Adblock file with three rules. This is a simple formatting task - no research needed. The rules are already provided. I just need to format them properly as an Adblock filter file.
+
+Standard Adblock filter file format includes a header with a comment indicating the file purpose, then the rules. Let me format this cleanly.
+
+</details>
+
+```adblock
+[Adblock Plus 2.0]
+! Title: Reneweconomy.com.au Custom Filters
+! Description: Block third-party CDN, analytics, and ad-network requests on reneweconomy.com.au
+! Version: 1.0.0
+! Last modified: 2026-07-02
+! Homepage: https://reneweconomy.com.au
+!
+! Rules
 cdn.datatables.net$domain=reneweconomy.com.au
 googletagmanager.com$domain=reneweconomy.com.au
 googlesyndication.com$domain=reneweconomy.com.au
+```
